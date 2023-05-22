@@ -1,0 +1,48 @@
+2022-05-26 17:26:00 INFO  Main:17 - Program started
+2022-05-26 17:26:09 INFO  SignInController:39 - file named Students.txt opened
+2022-05-26 17:26:09 INFO  SignInController:60 - file named Students.txt closed
+2022-05-26 17:26:09 INFO  SignInController:70 - file named Teachers.txt opened
+2022-05-26 17:26:09 INFO  SignInController:81 - file named Teachers.txt closed
+2022-05-26 17:26:09 INFO  SignInFrame:138 - user with username: ostad3 logged in as a teacher
+2022-05-26 17:26:12 INFO  FileController:808 - file named Recoms.txt opened
+2022-05-26 17:26:12 INFO  FileController:826 - file named Recoms.txt closed
+2022-05-26 17:26:12 INFO  FileController:992 - file named Resigns.txt opened
+2022-05-26 17:26:12 INFO  FileController:1011 - file named Resigns.txt closed
+2022-05-26 17:26:12 INFO  FileController:903 - file named Minors.txt opened
+2022-05-26 17:26:12 INFO  FileController:920 - file named Minors.txt closed
+2022-05-26 17:26:15 INFO  TeacherRequestPanel:228 - Teacher ostad3confirmed student student1request to resign
+2022-05-26 17:26:15 INFO  FileController:946 - file named Resigns.txt opened
+2022-05-26 17:26:15 INFO  FileController:668 - file named Students.txt opened
+2022-05-26 17:26:15 INFO  FileController:687 - file named Students.txt closed
+2022-05-26 17:26:15 INFO  FileController:311 - file named Students.txt opened
+2022-05-26 17:26:15 INFO  FileController:344 - file named Students.txt closed
+2022-05-26 17:26:15 INFO  FileController:987 - file named Resigns.txt closed
+2022-05-26 17:26:15 INFO  FileController:808 - file named Recoms.txt opened
+2022-05-26 17:26:15 INFO  FileController:826 - file named Recoms.txt closed
+2022-05-26 17:26:15 INFO  FileController:992 - file named Resigns.txt opened
+2022-05-26 17:26:15 INFO  FileController:1011 - file named Resigns.txt closed
+2022-05-26 17:26:15 INFO  FileController:903 - file named Minors.txt opened
+2022-05-26 17:26:15 INFO  FileController:920 - file named Minors.txt closed
+2022-05-26 17:26:19 INFO  MainFrame:118 - User ostad3 logged out
+2022-05-26 17:26:28 INFO  SignInController:39 - file named Students.txt opened
+2022-05-26 17:26:28 INFO  SignInController:50 - file named Students.txt closed
+2022-05-26 17:26:28 INFO  SignInController:70 - file named Teachers.txt opened
+2022-05-26 17:26:28 INFO  SignInController:91 - file named Teachers.txt closed
+2022-05-26 17:26:31 INFO  SignInFrame:147 - unsuccessful log in  invalid user/pass
+2022-05-26 17:27:52 INFO  SignInController:39 - file named Students.txt opened
+2022-05-26 17:27:52 INFO  SignInController:50 - file named Students.txt closed
+2022-05-26 17:27:52 INFO  SignInController:70 - file named Teachers.txt opened
+2022-05-26 17:27:52 INFO  SignInController:91 - file named Teachers.txt closed
+2022-05-26 17:27:52 INFO  SignInFrame:130 - user with username: student4logged in as a student
+2022-05-26 17:27:58 INFO  FileController:311 - file named Students.txt opened
+2022-05-26 17:27:58 INFO  FileController:344 - file named Students.txt closed
+2022-05-26 17:27:58 INFO  StudentMainFrame:297 - Student student4 requested for a defending session
+2022-05-26 17:28:24 INFO  MainFrame:118 - User student4 logged out
+2022-05-26 17:28:32 INFO  SignInController:39 - file named Students.txt opened
+2022-05-26 17:28:32 INFO  SignInController:50 - file named Students.txt closed
+2022-05-26 17:28:32 INFO  SignInController:70 - file named Teachers.txt opened
+2022-05-26 17:28:32 INFO  SignInController:91 - file named Teachers.txt closed
+2022-05-26 17:28:32 INFO  SignInFrame:130 - user with username: student3logged in as a student
+2022-05-26 17:28:34 INFO  FileController:311 - file named Students.txt opened
+2022-05-26 17:28:34 INFO  FileController:344 - file named Students.txt closed
+2022-05-26 17:28:34 INFO  StudentMainFrame:263 - Student student3 requested for dorm and got accepted
